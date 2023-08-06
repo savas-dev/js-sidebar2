@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+
+:root{
+    --primary-color: #1b1c1d;
+    --secondary-color: #4d7ba9;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Muli', sans-serif;
+}
